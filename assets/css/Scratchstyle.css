@@ -1,0 +1,12 @@
+.background{
+    background-color: lightskyblue;
+}
+
+.BYU {
+    font-family: "Times New Roman", Arial;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: rgb(45, 42, 42);
+  }
